@@ -1,7 +1,7 @@
 <!--### Hello! I'm Archana Kumari👋
 
 
-- 🔭 I’m currently a First-year student in University of Calcutta.
+- 🔭 I’m currently a First-year student at University of Calcutta.
 - 🌱 I’m currently learning Data Structures and Algorithms.
 <!--- 👯 I’m looking to collaborate on 
 -🤔 I’m looking for help with ...
