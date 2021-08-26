@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **C, C++, Python, Web development**
 
-- 📫 How to reach me **mailto: archanakumari9430@gmail.com**
+- 📫 How to reach me **mailto: archanakumari9430@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
