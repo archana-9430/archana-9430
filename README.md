@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithm**
 
-- 💬 Ask me about **C, C++, Python, Web development**
+- 💬 I need help in **C, C++, Python, Web development**
 
 - 📫 How to reach me **mailto: archanakumari9430@outlook.com**
 
