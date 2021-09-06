@@ -8,11 +8,11 @@
 - 💬 Ask me about Web development, C++, Python.
 - 📫 How to reach me: https://www.linkedin.com/in/archana-kumari-2198051bb/
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love painting, plantation and watching cartoons.
+⚡ Fun fact: I love painting, plantation and watching cartoons.
 -->
 
 <h1 align="center">Hi 👋, I'm Archana Kumari</h1>
-<h3 align="center">I'm a First-year student in University of Calcutta</h3>
+<h3 align="center">I'm a Sophomore at University of Calcutta (IRPE), currently pursuing my BTech in Electronics and Communication engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archana-9430&label=Profile%20views&color=0e75b6&style=flat" alt="archana-9430" /> </p>
 
