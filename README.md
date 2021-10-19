@@ -1,3 +1,5 @@
+<div class = "text-white bg-gray-dark mb-2">
+
 <!--### Hello! I'm Archana Kumari👋
 
 
@@ -16,7 +18,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archana-9430&label=Profile%20views&color=0e75b6&style=flat" alt="archana-9430" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archana-9430" alt="archana-9430" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archana-9430" alt="archana-9430" /></a> </p>-->
 
 - 🌱 I’m currently learning **Data Structures and Algorithm**
 
@@ -39,3 +41,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archana-9430&" alt="archana-9430" /></p>
 
+  </div>
