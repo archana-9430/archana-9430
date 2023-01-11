@@ -3,8 +3,8 @@
 <!--### Hello! I'm Archana Kumari👋
 
 
-- 🔭 I’m currently a First-year student at University of Calcutta.
-- 🌱 I’m currently learning Data Structures and Algorithms.
+- 🔭 I’m currently a Pre-final year student at University of Calcutta.
+- 🌱 I’m currently sharpening my Data Structures and Algorithms.
 <!--- 👯 I’m looking to collaborate on 
 -🤔 I’m looking for help with ...
 - 💬 Ask me about Web development, C++, Python.
