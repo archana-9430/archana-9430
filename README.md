@@ -14,15 +14,15 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Archana Kumari</h1>
-<h3 align="center">I'm a Sophomore at University of Calcutta (IRPE), currently pursuing my BTech in Electronics and Communication engineering.</h3>
+<h3 align="center">I'm a Pre-final year student at University of Calcutta (IRPE), currently pursuing my BTech in Electronics and Communication engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archana-9430&label=Profile%20views&color=0e75b6&style=flat" alt="archana-9430" /> </p>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archana-9430" alt="archana-9430" /></a> </p>-->
 
-- 🌱 I’m currently learning **Data Structures and Algorithm**
+- 🌱 I’m currently sharpening my knowledge in **Data Structures and Algorithm**
 
-- 💬 I need help in **C, C++, Python, Web development**
+- 💬 I need help in **C/C++, Python, Web development and Machine Learning**
 
 - 📫 How to reach me **mailto: archanakumari9430@outlook.com**
 
