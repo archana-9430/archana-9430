@@ -3,7 +3,7 @@
 <!--### Hello! I'm Archana Kumari👋
 
 
-- 🔭 I’m currently a Pre-final year student at University of Calcutta.
+- 🔭 I’m currently a Final year student at University of Calcutta.
 - 🌱 I’m currently sharpening my Data Structures and Algorithms.
 <!--- 👯 I’m looking to collaborate on 
 -🤔 I’m looking for help with ...
